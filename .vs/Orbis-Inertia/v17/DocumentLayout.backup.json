@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "kai.html",
               "ToolTip": "D:\\Orbis-Inertia\\kai.html",
               "RelativeToolTip": "kai.html",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-22T10:37:00.757Z",
               "EditorCaption": ""
@@ -55,7 +55,8 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAEoAAAAAAAAAAAAnwHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-22T10:34:13.859Z"
+              "WhenOpened": "2025-05-22T10:34:13.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -67,7 +68,8 @@
               "RelativeToolTip": "Jack.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-22T10:34:13.124Z"
+              "WhenOpened": "2025-05-22T10:34:13.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +81,8 @@
               "RelativeToolTip": ".gitattributes",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-22T10:34:12.24Z"
+              "WhenOpened": "2025-05-22T10:34:12.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,7 +94,8 @@
               "RelativeToolTip": "Ethan.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-22T10:34:10.796Z"
+              "WhenOpened": "2025-05-22T10:34:10.796Z",
+              "EditorCaption": ""
             }
           ]
         }
